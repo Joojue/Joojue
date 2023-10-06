@@ -1,8 +1,8 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=1DBF73&height=100&section=header&text=Joojue&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-####  :wave: Welcome my github profile !
+####  :wave: This is my github, thanks to visit !
 
   
  <br/>
@@ -32,6 +32,7 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joojue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojue&show_icons=true&theme=radical)
   
