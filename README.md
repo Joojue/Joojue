@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://blog.naver.com/rnstnqhrmq12" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=naver&logoColor=03C75A"/></a>
+<a href="https://blog.naver.com/rnstnqhrmq12" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat&logo=naver&logoColor=03C75A"/></a>
 
 <!--
 **Joojue/Joojue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
