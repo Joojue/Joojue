@@ -1,4 +1,4 @@
-### Hi there 👋
+# welcome to my github !
 
 <a href="https://blog.naver.com/rnstnqhrmq12" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat&logo=naver&logoColor=03C75A"/></a>
 
