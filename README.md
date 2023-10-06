@@ -2,6 +2,9 @@
 
 <a href="https://blog.naver.com/rnstnqhrmq12" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat&logo=naver&logoColor=03C75A"/></a>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joojue&show_icons=true&theme=radical)
+
 <!--
 **Joojue/Joojue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
