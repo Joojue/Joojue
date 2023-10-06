@@ -36,5 +36,6 @@
 <br/>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojue&show_icons=true&theme=radical)
-  
-</div>
+<br/>
+<br/>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joojue)](https://github.com/joojue/velog-readme-stats)
